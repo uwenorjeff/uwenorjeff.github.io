@@ -5,7 +5,8 @@
   }
 
 body {
-    background-color: rgb(36, 177, 158);}
+    background-color: rgb(36, 177, 158);
+background-image: url(./images/code_background.jpeg);}
 
 .footer {text-align: center;}
   
